@@ -1,0 +1,8 @@
+name:
+  pym
+version:
+  1.0.0
+requirements:
+  - yaml
+author:
+  Sebastian Tuyu

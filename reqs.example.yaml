@@ -1,0 +1,9 @@
+name:
+  pym
+version:
+  1.0.0
+requirements:
+  # - pyyaml==6.0
+  - python-dummy==0.1.0
+author:
+  Sebastian Tuyu
