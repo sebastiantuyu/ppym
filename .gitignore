@@ -1,1 +1,2 @@
-python_modules
+python_modules/*
+!docs/python_modules/*

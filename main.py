@@ -46,7 +46,7 @@ def installer():
 
 
 if __name__ == '__main__':
-  # Run ppm
+  # Run ppym
   command = sys.argv[1]
   if checkFileExists(requiredFiles):
     # argv 1 -> command to run
